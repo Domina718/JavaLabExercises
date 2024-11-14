@@ -1,0 +1,29 @@
+{
+  "url" : "tcp://localhost:1883",
+  "topic" : "sensor_data",
+  "sensors" : [ {
+    "name" : "Trenutna temperatura vode",
+    "factor" : 10,
+    "rangeLow" : -32660,
+    "rangeHigh" : 32660,
+    "unit" : "C"
+  }, {
+    "name" : "Trenutni tlak vode",
+    "factor" : 1000,
+    "rangeLow" : 0,
+    "rangeHigh" : 65336,
+    "unit" : "Bar"
+  }, {
+    "name" : "Potrosnja u zadnjih 1 min, 10 min, 1 sat, 1 dan",
+    "factor" : 0,
+    "rangeLow" : 0,
+    "rangeHigh" : 65336,
+    "unit" : "Litra"
+  }, {
+    "name" : "Potrosnja u zadnjih 1 tjedan, 1 mjesec, 1 godinu",
+    "factor" : 10,
+    "rangeLow" : 0,
+    "rangeHigh" : 65336,
+    "unit" : "m3"
+  } ]
+}
