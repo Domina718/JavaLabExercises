@@ -4,74 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3375189-ea71-46f0-97d9-03405e3af235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho404490022703300-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho404562883693000-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho404854539374400-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho404985634566700-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho405232241448700-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho406123420249200-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho406629462168400-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho409494509387200-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho65615578506299-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paho75418304519700-tcplocalhost1883/.lck" afterDir="false" />
+    <list default="true" id="955eed77-8cac-4cbd-9a81-f04b8851c923" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MqttPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MqttPublisherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SensorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/MqttPublisher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Sensor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/MqttPublisherTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/SensorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho404490022703300-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho404562883693000-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho404854539374400-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho404985634566700-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho405232241448700-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho406123420249200-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho406629462168400-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho409494509387200-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho65615578506299-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho73680970392200-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho73700528303100-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho73724481267800-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho73782294592800-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho74675019282000-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho74827875461100-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho74998763257600-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho75227135815400-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho75296954672100-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho75332819996100-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho75632526740300-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho75699409384400-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/paho76028666301100-tcplocalhost1883/.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/sensor.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/src/main/java/org/example/MqttPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/src/main/java/org/example/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/src/test/java/org/example/MqttPublisherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/src/test/java/org/example/SensorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/target/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/target/classes/org/example/MqttPublisher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/target/classes/org/example/Sensor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/target/test-classes/org/example/MqttPublisherTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterFlowMeterJson/target/test-classes/org/example/SensorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/SensorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/SensorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit3 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -91,116 +28,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2oJ48Ym1Ne0G6DXjlGjsIPxWqNF" />
+  <component name="ProjectId" id="2sY6NU2k9MNY22i9RfrNFnYCcah" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.MqttPublisherTest">
-    <configuration name="MqttPublisherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WaterFlowMeter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.MqttPublisherTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MqttPublisherTest.sendMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WaterFlowMeter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.MqttPublisherTest" />
-      <option name="METHOD_NAME" value="sendMessageTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SensorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WaterFlowMeter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.SensorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SensorTest.randomNumberIsRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WaterFlowMeter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.SensorTest" />
-      <option name="METHOD_NAME" value="randomNumberIsRandom" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SensorTest.refreshTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WaterFlowMeter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.SensorTest" />
-      <option name="METHOD_NAME" value="refreshTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.MqttPublisherTest" />
-        <item itemvalue="JUnit.SensorTest" />
-        <item itemvalue="JUnit.SensorTest.refreshTest" />
-        <item itemvalue="JUnit.MqttPublisherTest.sendMessageTest" />
-        <item itemvalue="JUnit.SensorTest.randomNumberIsRandom" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b3375189-ea71-46f0-97d9-03405e3af235" name="Changes" comment="" />
-      <created>1730574186360</created>
+      <changelist id="955eed77-8cac-4cbd-9a81-f04b8851c923" name="Changes" comment="" />
+      <created>1738620124880</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730574186360</updated>
+      <updated>1738620124880</updated>
     </task>
     <servers />
   </component>
