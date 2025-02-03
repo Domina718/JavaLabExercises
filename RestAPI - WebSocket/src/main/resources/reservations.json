@@ -1,0 +1,146 @@
+[
+  {
+    "member": {
+      "id": 1,
+      "name": "Ana",
+      "email": "ana.anic@gmail.com",
+      "dob": "1996-10-08"
+    },
+    "book": {
+      "id": 7,
+      "author": "J.R.R Tolkien",
+      "genre": "Fantasy",
+      "publisher": "Penguin Books",
+      "title": "Lord of the Rings: The Return of the King",
+      "yearPublished": 1941,
+      "numPages": 417
+    },
+    "fulfilled": false
+  },
+  {
+    "member": {
+      "id": 2,
+      "name": "Jakov",
+      "email": "jakov93@gmail.com",
+      "dob": "1993-01-09"
+    },
+    "book": {
+      "id": 5,
+      "author": "J.R.R Tolkien",
+      "genre": "Fantasy",
+      "publisher": "Penguin Books",
+      "title": "Lord of the Rings: The Two Towers",
+      "yearPublished": 1939,
+      "numPages": 371
+    },
+    "fulfilled": false
+  },
+  {
+    "member": {
+      "id": 3,
+      "name": "Karla",
+      "email": "karla@gmail.com",
+      "dob": "1998-06-12"
+    },
+    "book": {
+      "id": 2,
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "publisher": "HarperCollins",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "yearPublished": 1990,
+      "numPages": 354
+    },
+    "fulfilled": false
+  },
+  {
+    "member": {
+      "id": 4,
+      "name": "Josip",
+      "email": "jp@gmail.com",
+      "dob": "1985-08-24"
+    },
+    "book": {
+      "id": 6,
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "publisher": "HarperCollins",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "yearPublished": 1992,
+      "numPages": 362
+    },
+    "fulfilled": false
+  },
+  {
+    "member": {
+      "id": 5,
+      "name": "Stipe",
+      "email": "stipsy@gmail.com",
+      "dob": "2001-11-02"
+    },
+    "book": {
+      "id": 1,
+      "author": "Stephen King",
+      "genre": "Fantasy",
+      "publisher": "Pearson",
+      "title": "Carrie",
+      "yearPublished": 1983,
+      "numPages": 275
+    },
+    "fulfilled": false
+  },
+  {
+    "member": {
+      "id": 6,
+      "name": "Ante",
+      "email": "Antisa@gmail.com",
+      "dob": "1992-04-19"
+    },
+    "book": {
+      "id": 7,
+      "author": "J.R.R Tolkien",
+      "genre": "Fantasy",
+      "publisher": "Penguin Books",
+      "title": "Lord of the Rings: The Return of the King",
+      "yearPublished": 1941,
+      "numPages": 417
+    },
+    "fulfilled": false
+  },
+  {
+    "member": {
+      "id": 7,
+      "name": "Kristijan",
+      "email": "kiki@gmail.com",
+      "dob": "1999-09-18"
+    },
+    "book": {
+      "id": 1,
+      "author": "Stephen King",
+      "genre": "Fantasy",
+      "publisher": "Pearson",
+      "title": "Carrie",
+      "yearPublished": 1983,
+      "numPages": 275
+    },
+    "fulfilled": false
+  },
+  {
+    "member": {
+      "id": 8,
+      "name": "Nikolina",
+      "email": "nikky@gmail.com",
+      "dob": "1995-10-24"
+    },
+    "book": {
+      "id": 3,
+      "author": "J.R.R Tolkien",
+      "genre": "Fantasy",
+      "publisher": "Penguin Books",
+      "title": "Lord of the Rings: The Fellowship of the Ring",
+      "yearPublished": 1936,
+      "numPages": 346
+    },
+    "fulfilled": false
+  }
+]
