@@ -1,0 +1,58 @@
+[
+  {
+    "author":"Stephen King",
+    "genre": "Fantasy",
+    "publisher": "Pearson",
+    "title": "Carrie",
+    "yearPublished": 1983,
+    "numPages": 275
+  },
+  {
+    "author":"J.K Rowling",
+    "genre": "Fantasy",
+    "publisher": "HarperCollins",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "yearPublished": 1990,
+    "numPages": 354
+  },
+  {
+    "author": "J.R.R Tolkien",
+    "genre": "Fantasy",
+    "publisher": "Penguin Books",
+    "title": "Lord of the Rings: The Fellowship of the Ring",
+    "yearPublished": 1936,
+    "numPages": 346
+  },
+  {
+    "author":"Stephen King",
+    "genre": "Fantasy",
+    "publisher": "Pearson",
+    "title": "Outsider",
+    "yearPublished": 2013,
+    "numPages": 314
+  },
+  {
+    "author": "J.R.R Tolkien",
+    "genre": "Fantasy",
+    "publisher": "Penguin Books",
+    "title": "Lord of the Rings: The Two Towers",
+    "yearPublished": 1939,
+    "numPages": 371
+  },
+  {
+    "author":"J.K Rowling",
+    "genre": "Fantasy",
+    "publisher": "HarperCollins",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "yearPublished": 1992,
+    "numPages": 362
+  },
+  {
+    "author": "J.R.R Tolkien",
+    "genre": "Fantasy",
+    "publisher": "Penguin Books",
+    "title": "Lord of the Rings: The Return of the King",
+    "yearPublished": 1941,
+    "numPages": 417
+  }
+]
